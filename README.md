@@ -29,4 +29,14 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+
+### Built with:
+
+Material UI
+https://mui.com/
+
+Date Range Picker
+https://www.npmjs.com/package/react-date-range
+
+
 ## Live demo pending 

@@ -86,13 +86,41 @@ position: relative;
   padding-bottom: 40px;
   width: 300px;
 }
+.banner__search{
+  display: flex;
+  flex-direction: column;
+}
+.banner__searchButton{
+  background-color: white !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  color: #C1EDCC !important;
+}
 
-.banner__info > button{
+.banner__info > button {
   background-color:  #A7A7A9;
   color: #C1EDCC;
   text-transform: inherit;
+  margin-top: 20px;
+  font-weight: 600;
 }
 
+.banner__info > button:hover {
+  background-color: #C1EDCC;
+  color: #A7A7A9;
+}
 
+.banner__info > h5{
+  margin-top: 10px;
+}
 /* Home */
 
+
+
+
+
+
+/* Dates */
+.dates{
+
+}
