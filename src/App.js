@@ -8,15 +8,7 @@ function App() {
      <Header/>
         <Home/>
         
-        {/* {HEADER} */}
 
-            {/* {SEARCH BAR} */}
-
-        {/* {CARDS - with homes} */}
-
-        {/* {FOOTER, including my links} */}
-
-        {/* {SEARCH PAGE} */}
         </div>
     );
 }
