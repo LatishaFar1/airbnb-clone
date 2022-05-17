@@ -15,3 +15,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+/* Header */
+.header__icon{
+  object-fit: contain;
+  height: 100px;
+  margin-left: 20px;
+}
+
+/* Home */
