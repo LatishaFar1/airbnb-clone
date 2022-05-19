@@ -5,7 +5,7 @@ import "./index.css"
 
 function Banner() {
 
-  const [showDates, setShowDates] = useState(true);
+  const [showDates, setShowDates] = useState(false);
 
   return (
     <div className='banner'>

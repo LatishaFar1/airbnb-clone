@@ -122,5 +122,49 @@ position: relative;
 
 /* Dates */
 .dates{
+  position: absolute;
+  top: 35px;
+  left: 25%;
+  width: 100vw;
+}
 
+.dates > h2{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 559px;
+  padding: 10px;
+  background-color: #B0C0BC;
+  position: absolute;
+  left: 0;
+  top: 380px;
+}
+
+.dates > input{
+  width: 539px;
+  padding: 20px;
+  position: absolute;
+  left: 0;
+  height: 30px;
+  top: 420px;
+  border: none;
+}
+
+.dates > input:focus {
+  outline-width: 0;
+}
+
+.dates > button {
+  position: absolute;
+  left: 0;
+  top: 480px;
+  text-transform: inherit !important;
+  background-color: #B0C0BC;
+  color: white;
+  width: 579px;
+}
+
+.dates > button:hover{
+  background-color: white;
+  color:#B0C0BC;
 }
