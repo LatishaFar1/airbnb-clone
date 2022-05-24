@@ -11,7 +11,7 @@ function Search() {
     <div className='search'>
        <div className='search__buttons'>
             <h1>
-                Local Stays
+               Stays
             </h1>
                 <Button variant="outlined">Cancellation</Button>
 
