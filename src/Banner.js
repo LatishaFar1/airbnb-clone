@@ -25,7 +25,7 @@ function Banner() {
         <h5>
             Get out of your comfort zone and discover something new.
         </h5>
-        <Button variant="outlined" onClick={() => navigate("/search")}> Explore Nearby</Button>
+        <Button variant="outlined" onClick={() => navigate("/search")}> Explore</Button>
       </div>
     </div>
   )

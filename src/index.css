@@ -129,26 +129,28 @@ position: relative;
 
 /* Search */
 
-.search__cards{
+.search__info2{
 
+position: absolute;
+top: 20px;
+right: 40px;
 }
 .search__card{
   display: flex;
   position: relative;
-  margin: 20px;
-  padding: 20px;
+  margin: 80px;
+  padding: 40px;
   border-bottom: 1px solid lightgray;
   background-color: white;
 }
 .search__card:hover{
   opacity: 0.8;
-  
 }
 .search__card > img{
   object-fit: cover;
   border-radius: 10px;
   overflow: hidden;
-  min-width: 300px;
+  min-width: 400px;
   min-height: 200px;
 }
 
@@ -171,7 +173,7 @@ position: relative;
 
 
 .heart__button{
-  padding: 0;
+  padding: 30px;
   border: none;
   background: none;
 }
