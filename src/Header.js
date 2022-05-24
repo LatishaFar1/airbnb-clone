@@ -3,13 +3,21 @@ import "./index.css"
 import SearchIcon from '@mui/icons-material/Search';
 import LanguageIcon from "@mui/icons-material/Language";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore"
+import HelpCenterIcon from '@mui/icons-material/HelpCenter';
 import {Avatar} from "@mui/material"
 import {Link} from "react-router-dom";
 
 function Header() {
   return (
     <div className='Header'>
-      <h5 className='tish-header'>Tish's ⚡️🎧🌙</h5>
+      <h5 className='tish-header' style={{color:"black"}}>
+      <br/>
+      <Link to="/about">
+        About  <br/>
+        <HelpCenterIcon style={{color:"black"}} />
+      </Link>
+      
+      </h5>
 
       <Link to="/">
         <img className="header__icon" 

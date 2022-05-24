@@ -67,6 +67,12 @@ code {
   width: 15vw;
   margin-right: 80px;
 }
+.tish-header > a:link{
+  color:#C1EDCC;
+  padding-right: 15px;
+  text-decoration: none;
+  
+}
 
 
 /* Banner */
@@ -122,15 +128,15 @@ position: relative;
 
 
 /* Search */
-.search__info{
+.search__buttons{
   padding:20px;
   font-size: 15px;
 }
-.search__info > h1{
+.search__buttons > h1{
   margin-bottom: 20px;
   
 }
-.search__info > button{
+.search__buttons > button{
   background-color: white;
   color: #797270;
   text-transform: inherit;
@@ -139,9 +145,16 @@ position: relative;
   font-weight: 600;
 }
 
+.search__cards{
+  display: flex;
+  padding: 30px;
+}
 
-
-
+.heart__button{
+  padding: 0;
+  border: none;
+  background: none;
+}
 
 
 

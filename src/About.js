@@ -32,6 +32,15 @@ function About() {
         </li>
 
         <li>
+        Created re-usable rental cards, using materialUi, to be used throughout the app.
+        </li>
+
+        {/* <li>
+          Added a like button to the searchable rentals
+        </li> */}
+
+
+        <li>
           A footer with links to my blog posts, GitHub, LinkedIn, and email.
         </li>
 
