@@ -8,8 +8,9 @@ function SearchInfo({title, img, desc, location, price}) {
 
 
   return (
-    <div className='search__info'>
+<div className='card'>
         <img src={img} alt="rental"/>
+    <div className='search__info'>
         <h2>{title}</h2>
         <p>{desc}</p>
         <h3>{location}</h3>
@@ -20,6 +21,7 @@ function SearchInfo({title, img, desc, location, price}) {
 
 
     </div>
+  </div>
   )
 }
 
