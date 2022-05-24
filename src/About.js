@@ -24,7 +24,7 @@ function About() {
         </li>
 
         <li>
-            Routes to different parts of the web-app
+            Routes to different parts of the web-app ('Home' by clicking the airbnb logo, 'Search' through the explore button)
         </li>
 
         <li>
@@ -36,7 +36,7 @@ function About() {
         </li>
 
         <li>
-          Added a like button to the searchable rentals
+          Added a like button to the searchable rentals (Click 'explore' on the home page!)
         </li>
 
 
