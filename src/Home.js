@@ -28,18 +28,18 @@ function Home() {
         <div className='home__cards'>
             <Card
             img="https://images.unsplash.com/photo-1612320743558-020669ff20e8?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472"
-            title=""
+            title="loremp ipsum"
             desc="A luxe apartment in the heart of NYC" 
             price="$300 a night"/>
             <Card 
             img="https://images.unsplash.com/photo-1576442850492-dae97d3e0129?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8aG91c2UlMjBpbiUyMHRoZSUyMHdvb2RzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1100"
-            title=""
-            desc="" 
+            title="loremp ipsum"
+            desc="loremp ipsum" 
             price="$90 a night"/>
             <Card
             img="https://images.unsplash.com/photo-1613977257365-aaae5a9817ff?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dmlsbGF8ZW58MHx8MHx8&auto=format&fit=crop&w=1100"
-            title=""
-            desc=""  
+            title="loremp ipsum"
+            desc="lorem ipsum"  
             price="$400 a night"/>
         </div>
     </div>
