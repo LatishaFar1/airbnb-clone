@@ -10,27 +10,33 @@ function Footer() {
   return (
     <div className='footer'>
         <div className='footer__links'>
-        <a href='https://github.com/LatishaFar1'>
-       <GitHubIcon  />
-       </a>
-      
-       <a href='https://tishfaroul.medium.com/'>
-       <BookIcon />
-       </a>
+
+          <p>
+           This is a mock Airbnb app, built by Tish Faroul
+          </p>
+
+                <a href='https://github.com/LatishaFar1'>
+              <GitHubIcon  />
+              </a>
+              
+              <a href='lfaroul14@gmail.com'>
+              <EmailIcon />
+              </a>
 
 
-       <a href='https://www.linkedin.com/in/latisha-faroul/'>
-       <LinkedInIcon />
-       </a>
+              <a href='https://www.linkedin.com/in/latisha-faroul/'>
+              <LinkedInIcon />
+              </a>
 
 
-       <a href='lfaroul14@gmail.com'>
-       <EmailIcon />
-       </a>
+              <a href='https://twitter.com/TishFaroul'>
+              <TwitterIcon />
+              </a>
 
-       <a href='https://twitter.com/TishFaroul'>
-       <TwitterIcon />
-       </a>
+
+              <a href='https://tishfaroul.medium.com/'>
+              <BookIcon />
+              </a>
 
         </div>
       
