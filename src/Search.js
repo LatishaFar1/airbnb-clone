@@ -9,7 +9,6 @@ function Search() {
             <h1>
                 Local Stays
             </h1>
-
                 <Button variant="outlined">Cancellation</Button>
 
                 <Button variant="outlined">Rooms</Button>
@@ -17,7 +16,6 @@ function Search() {
                 <Button variant="outlined">Price</Button>
 
                 <Button variant="outlined">More Filters</Button>
-
        </div>
 
 

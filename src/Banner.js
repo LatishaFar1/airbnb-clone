@@ -1,11 +1,14 @@
 import { Button } from '@mui/material'
 import React, { useState } from 'react'
 import Dates from './Dates';
+import {useNavigate} from "react-router-dom";
+
 import "./index.css"
 
 function Banner() {
 
   const [showDates, setShowDates] = useState(false);
+  const navigate = useNavigate();
 
   return (
     <div className='banner'>
@@ -22,7 +25,7 @@ function Banner() {
         <h5>
             Get out of your comfort zone and discover something new.
         </h5>
-        <Button variant="outlined"> Explore Nearby</Button>
+        <Button variant="outlined" onClick={() => navigate("/search")}> Explore Nearby</Button>
       </div>
     </div>
   )

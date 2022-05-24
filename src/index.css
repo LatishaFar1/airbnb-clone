@@ -103,6 +103,7 @@ position: relative;
   text-transform: inherit;
   margin-top: 20px;
   font-weight: 600;
+  border-radius: 30px;
 }
 
 .banner__info > button:hover {
@@ -121,8 +122,21 @@ position: relative;
 
 
 /* Search */
-.search{
-
+.search__info{
+  padding:20px;
+  font-size: 15px;
+}
+.search__info > h1{
+  margin-bottom: 20px;
+  
+}
+.search__info > button{
+  background-color: white;
+  color: #797270;
+  text-transform: inherit;
+  margin: 5px;
+  border-radius: 30px;
+  font-weight: 600;
 }
 
 
