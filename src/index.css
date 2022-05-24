@@ -120,6 +120,14 @@ position: relative;
 }
 
 
+/* Search */
+.search{
+
+}
+
+
+
+
 
 
 
@@ -171,6 +179,38 @@ position: relative;
   background-color: white;
   color:#B0C0BC;
 }
+
+
+/* About */
+.about__update{
+  background-color: #453F3C ;
+  color: #C1EDCC;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-size: 20px;
+}
+.about__update > ul {
+  text-align: left;
+  padding-top: 30px;
+
+}
+
+.about__update > h2 {
+  animation: blinker 2s linear infinite;
+}
+@keyframes blinker {
+  50%{
+    opacity: 1;
+  }
+  from {
+    color:#C1EDCC;
+  }
+  to {
+    color: #1f5b4c;
+  }
+}
+
 
 /* Cards */
 

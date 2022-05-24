@@ -12,7 +12,7 @@ function Footer() {
         <div className='footer__links'>
 
           <p>
-           This is a mock Airbnb app, built by Tish Faroul
+           This is a mock Airbnb app, built by Tish Faroul ⚡️🎧🌙
           </p>
 
                 <a href='https://github.com/LatishaFar1'>

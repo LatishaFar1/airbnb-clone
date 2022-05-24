@@ -39,4 +39,12 @@ Date Range Picker
 https://www.npmjs.com/package/react-date-range
 
 
-## Live demo pending 
+## Live demo 
+
+If it's down, it's because I'm currently deploying changes. Give it a few minutes!
+
+https://tish-airbnb-clone.netlify.app/
+
+
+
+Thanks, Tish ⚡️🎧🌙
